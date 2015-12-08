@@ -2,11 +2,14 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: cash.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+Project-Date: October 2015 - Present
+Client: Startup
+Category: Quantitative Finance and Data Analysis
+Languages: Python and C++
 
+description: Started an algorithmic trading fund with two classmates. Developed and backtested end-of-day and intraday trading strategies on historical data. Following algorithm development and backtesting, we implemented the strategies in our brokerage account through an automated execution system. 
+
+The historical tick trade data was hosted on Amazon Cloud instances and manipulated with Python in conjunction with various data analysis libraries, including Pandas, NumPy and PySwarm. The brokerage account was hosted through Interactive Brokers and interacted with through their C++ API. 
 ---
