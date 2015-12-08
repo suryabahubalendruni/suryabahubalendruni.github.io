@@ -8,11 +8,10 @@
                 </div>
             </div>
             </div>
-            <div class="container">
             <div class ="row">
             <div class="col-sm-1 portfolio-icons">
                 {% for post in site.posts %}
-                    <div class="col-sm-1 portfolio-item">
+                    <div class="portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
@@ -27,5 +26,4 @@
                 {% endfor %}
                 </div>
             </div>
-        </div>
     </section>
