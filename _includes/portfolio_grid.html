@@ -10,9 +10,9 @@
             </div>
             <div class="row">
                 {% for post in site.posts %}
-                    <div class="col-sm-1 portfolio-icons">
+                    <div class="col-sm-1 portfolio-items">
                         <div class = "portfolio-item">
-                        <a data_id="#portfolioModal-{{ post.modal-id }}" class="portfolio-link">
+                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
                                 <div class="caption-content">
                                     <i class=w"fa fa-search-plus fa-3x"></i>
