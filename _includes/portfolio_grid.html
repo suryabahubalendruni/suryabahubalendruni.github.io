@@ -7,7 +7,8 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            <div class="row">
+            <div class ="row">
+            <div class="col-sm-1 portfolio-icons">
                 {% for post in site.posts %}
                     <div class="col-sm-1 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
@@ -18,10 +19,11 @@
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
-                    </div>
-                    <div class="verticalLine">
+                        <div class="verticalLine">
+                        </div>
                     </div>
                 {% endfor %}
+                </div>
             </div>
         </div>
     </section>
