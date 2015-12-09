@@ -4,9 +4,13 @@ modal-id: 2
 date: 2014-07-17
 img: cake.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+title: KIPP St. Louis
+project-date: Fall 2015
+subject: Consulting and Strategy
+category: School - Taylor Community Consulting Project
+description1: KIPP St. Louis is a charter school network that helps children from low-income households surpass socioeconomic hurdles and attend college. As of Fall 2015, they provide an extended day, extended year educational program that serves grades K-8.
 
+description2: As a part of the Taylor Community Consulting Project, our team developed a feasibility study to determine the likelihood of KIPP St. Louis opening and operating a high performing college-preparatory high school. The study’s contents include: an executive summary, a competitive landscape analysis, a SWOT analysis, administrator and student interviews, and an opening plan.
+
+description3: After completing our feasability analysis and formulating a recommendation, we presented our findings to KIPP St. Louis’ board of directors as well as various community members and other interested parties.
 ---
