@@ -8,6 +8,7 @@ title: North Highland
 project-date: Fall 2015
 subject: Consulting and Marketing
 category: School - MGT 201
+computer-languages: N/A
 
 description1: North Highland is a global consulting firm with a differentiated business model. Instead of centralizing operations at a large main office and flying consultants to their engagements, North Highland opens branches where their clients are. In 2010, North Highland opened a St. Louis branch. 
 
