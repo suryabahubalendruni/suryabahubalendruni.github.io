@@ -12,6 +12,6 @@ computer-languages: N/A
 
 description1: North Highland is a global consulting firm with a differentiated business model. Instead of centralizing operations at a large main office and flying consultants to their engagements, North Highland opens branches where their clients are. In 2010, North Highland opened a St. Louis branch. 
 
-description2: As a part of a Management Communications course, our team developed a communication strategy to aid the St. Louis branch of North Highland in increasing its presence and preference in the region. Our analysis included an executive summary, an industry report, an audience profile, and various potential vehicles and messaging strategies to bolster North Highland's position in St. Louis. After developing our comprehensive communication strategy, we presented our solutions to the St. Louis' branch's upper management. 
+description2: As a part of a Management Communications course, our team developed a <a href="North Highland Final Report">communication strategy</a> to aid the St. Louis branch of North Highland in increasing its presence and preference in the region. Our analysis included an executive summary, an industry report, an audience profile, and various potential vehicles and messaging strategies to bolster North Highland's position in St. Louis. After developing our comprehensive communication strategy, we presented our solutions to the St. Louis' branch's upper management. 
 
 ---
