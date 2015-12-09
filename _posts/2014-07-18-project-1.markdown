@@ -5,11 +5,17 @@ date: 2014-07-18
 img: cash.png
 alt: image-alt
 title: Winston Grand
-project-date: October 2015 - Present
-subject: Quantitative Finance and Data Analysis
+project-date: Fall 2015 - Present
+subject: Data Analysis and Quantitative Finance
 category: Startup
 computer-languages: Python and C++
 
-description1: Started an algorithmic trading fund with two classmates. Developed and backtested end-of-day and intraday trading strategies on historical data. Following algorithm development and backtesting, we implemented the strategies in our brokerage account through an automated execution system.
-description2: The historical tick trade data was hosted on Amazon Cloud instances and manipulated with Python in conjunction with various data analysis libraries, including Pandas, NumPy and PySwarm. The brokerage account was hosted through Interactive Brokers and interacted with through their C++ API.
+description1: Winston Grand is an algorithmic trading fund I started with two classmates. Winston Grand specializes in equities trading with relatively short holding periods, ranging from minutes to a few days. 
+
+
+description2: At Winston Grand, we create end-of-day and intraday algorithms and rigorously back-test them on historical data to find potential biases and flaws in the strategies. After we conduct extensive sensitivity analyses and get a clear understanding of the risk and profitability of our algorithms, we implement them in an automated execution system through our brokerage account.
+
+
+description3: Our historical trade tick data is hosted on Amazon Cloud instances. We analyze and manipulate this data directly on the instance with Python in conjunction with various data analysis libraries, including Pandas, NumPy and PySwarm. Our brokerage account is hosted at Interactive Brokers and interacted with through an automated execution system built on Interactive Brokers’ C++ API.
+
 ---
