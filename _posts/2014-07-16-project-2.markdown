@@ -14,6 +14,6 @@ description1: KIPP St. Louis is a charter school network that helps children fro
 
 description2: The Taylor Community Consulting Program (TCCP) connects student teams with local non-profits. These teams tackle the problems the non-profits face in a consulting engagement, developing a solution for their client while maintaining regular communication with the non-profit to ensure their satisfaction.  
 
-description3: O
+description3: As a part of TCCP, our team developed a feasibility study to determine the likelihood of KIPP St. Louis opening and operating a high performing college-preparatory high school. The study's contents included an executive summary, a competitive landscape analysis, a SWOT analysis, administrator and student interviews, and an opening plan. After creating our feasibility analysis and formulating a solution, we presented our findings to KIPP St. Louis' board of directors and other interested parties.
 
 ---
