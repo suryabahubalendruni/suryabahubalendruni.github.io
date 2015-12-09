@@ -7,7 +7,7 @@ alt: image-alt
 title: Winston Grand
 project-date: Fall 2015
 subject: Consulting and Strategy
-category: Startup
+category: School - TCCP
 computer-languages: Python and C++
 
 description1: Winston Grand is an algorithmic trading fund I started with two classmates. Winston Grand specializes in equities trading with relatively short holding periods, ranging from minutes to a few days. 
