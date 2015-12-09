@@ -12,7 +12,7 @@ computer-languages: N/A
 
 description1: KIPP St. Louis is a charter school network that helps children from low-income households surpass socioeconomic hurdles and attend college. As of Fall 2015, they provide an extended day, extended year educational program that serves grades K-8.
 
-description2: As a part of the Taylor Community Consulting Project, our team developed a feasibility study to determine the likelihood of KIPP St. Louis opening and operating a high performing college-preparatory high school. The study’s contents include: an executive summary, a competitive landscape analysis, a SWOT analysis, administrator and student interviews, and an opening plan.
+description2:
 
 description3: Our historical trade tick data is hosted on Amazon Cloud instances. We analyze and manipulate this data directly on the instance with Python in conjunction with various data analysis libraries, including Pandas, NumPy and PySwarm. Our brokerage account is hosted at Interactive Brokers and interacted with through an automated execution system built on Interactive Brokers’ C++ API.
 
