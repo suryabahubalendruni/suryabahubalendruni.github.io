@@ -10,8 +10,7 @@ subject: Consulting and Strategy
 category: School - TCCP
 computer-languages: N/A
 
-description1: Winston Grand is an algorithmic trading fund I started with two classmates. Winston Grand specializes in equities trading with relatively short holding periods, ranging from minutes to a few days. 
-
+description1: KIPP St. Louis is a charter school network that helps children from low-income households surpass socioeconomic hurdles and attend college. As of Fall 2015, they provide an extended day, extended year educational program that serves grades K-8.
 
 description2: At Winston Grand, we create end-of-day and intraday algorithms and rigorously back-test them on historical data to find potential biases and flaws in the strategies. After we conduct extensive sensitivity analyses and get a clear understanding of the risk and profitability of our algorithms, we implement them in an automated execution system through our brokerage account.
 
