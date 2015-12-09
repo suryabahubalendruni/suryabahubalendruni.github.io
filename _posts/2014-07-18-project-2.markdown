@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2014-07-18
-img: graph.png
+img: graphs.png
 alt: image-alt
 title: KIPP St. Louis
 project-date: Fall 2015
