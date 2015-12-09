@@ -10,7 +10,7 @@ subject: Quantitative Finance and Data Analysis
 category: Startup
 computer-languages: Python and C++
 
-description: <Started an algorithmic trading fund with two classmates. Developed and backtested end-of-day and intraday trading strategies on historical data. Following algorithm development and backtesting, we implemented the strategies in our brokerage account through an automated execution system.
+description: Started an algorithmic trading fund with two classmates. Developed and backtested end-of-day and intraday trading strategies on historical data. Following algorithm development and backtesting, we implemented the strategies in our brokerage account through an automated execution system.
 
-The historical tick trade data was hosted on Amazon Cloud instances and manipulated with Python in conjunction with various data analysis libraries, including Pandas, NumPy and PySwarm. The brokerage account was hosted through Interactive Brokers and interacted with through their C++ API.>
+The historical tick trade data was hosted on Amazon Cloud instances and manipulated with Python in conjunction with various data analysis libraries, including Pandas, NumPy and PySwarm. The brokerage account was hosted through Interactive Brokers and interacted with through their C++ API.
 ---
