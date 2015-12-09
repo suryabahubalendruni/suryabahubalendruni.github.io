@@ -14,6 +14,6 @@ description1: KIPP St. Louis is a charter school network that helps children fro
 
 description2: The Taylor Community Consulting Program (TCCP) connects student teams with local non-profits. These teams tackle the problems the non-profits face in a consulting engagement, developing a solution for their client while maintaining regular communication with the non-profit to ensure their satisfaction.  
 
-description3: Our historical trade tick data is hosted on Amazon Cloud instances. We analyze and manipulate this data directly on the instance with Python in conjunction with various data analysis libraries, including Pandas, NumPy and PySwarm. Our brokerage account is hosted at Interactive Brokers and interacted with through an automated execution system built on Interactive Brokers’ C++ API.
+description3: O
 
 ---
