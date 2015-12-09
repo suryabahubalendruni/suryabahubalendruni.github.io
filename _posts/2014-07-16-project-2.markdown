@@ -5,7 +5,7 @@ date: 2014-07-18
 img: graphs.png
 alt: image-alt
 title: Winston Grand
-project-date: Fall 2015 - Present
+project-date: Fall 2015
 subject: Data Analysis and Quantitative Finance
 category: Startup
 computer-languages: Python and C++
