@@ -2,11 +2,15 @@
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: circus.png
+img: speech-bubble.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+title: North Highland
+project-date: Fall 2015
+subject: Consulting and Marketing
+category: School - MGT 201
+
+description1: North Highland is a global consulting firm with a differentiated business model. Instead of centralizing operations at a large main office and flying consultants to their engagements, North Highland opens branches where their clients are. In 2010, North Highland opened a St. Louis branch. 
+
+description2: As a part of a Management Communications course, our team developed a communication strategy to aid the St. Louis branch of North Highland in increasing its presence and preference in the region. Our analysis included an executive summary, an industry report, an audience profile, and various potential vehicles and messaging strategies to bolster North Highland's position in St. Louis. After developing our comprehensive communication strategy, we presented our solutions to the St. Louis' branch's upper management. 
 
 ---
