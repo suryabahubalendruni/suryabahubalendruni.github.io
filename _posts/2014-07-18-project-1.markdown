@@ -10,12 +10,12 @@ subject: Data Analysis and Quantitative Finance
 category: Startup
 computer-languages: Python and C++
 
-description1: Winston Grand is an algorithmic trading fund I started with two classmates. Winston Grand specializes in equities trading with relatively short holding periods, ranging from minutes to a few days. 
+description1: Winston Grand is an algorithmic trading fund I started with a classmate. We specialize in equities with relatively short holding periods, ranging from minutes to a few days. 
 
 
-description2: At Winston Grand, we create end-of-day and intraday algorithms and rigorously back-test them on historical data to find potential biases and flaws in the strategies. After we conduct extensive sensitivity analyses and get a clear understanding of the risk and profitability of our algorithms, we implement them in an automated execution system through our brokerage account.
+description2: We create end-of-day and intraday algorithms and back test on historical data to find potential biases and flaws in the strategies. After we conduct extensive sensitivity analyses and get a clear understanding of the risk and profitability of our algorithms, we implement them in an automated execution system through our brokerage account.
 
 
-description3: Our historical trade tick data is hosted on Amazon Cloud instances. We analyze and manipulate this data directly on the instance with Python in conjunction with various data analysis libraries, including Pandas, NumPy and PySwarm. Our brokerage account is hosted at Interactive Brokers and interacted with through an automated execution system built on Interactive Brokers’ C++ API.
+description3: Our historical trade tick data is hosted on Amazon Cloud instances. We analyze and manipulate this data directly on the instance with Python in conjunction with various data analysis libraries, including Pandas, NumPy, Graphlab-Create, Scikit-Learn and Pyswarm. Our brokerage account is hosted at Interactive Brokers and interacted with through an automated execution system built on Interactive Brokers’ API.
 
 ---
