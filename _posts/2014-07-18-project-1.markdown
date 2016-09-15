@@ -10,7 +10,12 @@ subject: Data Analysis and Quantitative Finance
 category: Startup
 computer-languages: Python and C++
 
-description1: Winston Grand is an algorithmic trading fund I started with a classmate. We specialize in equities with relatively short holding periods, ranging from minutes to a few days. 
+description1: • Comanaged an algorithmic trading fund that went live in April 2016 with $300K in seed capital and a primary focus on emerging cryptocurrencies, bolstering an impressive 220% return to date
+• Created book building software that takes in real-time market tick data for cryptocurrencies on various exchanges and efficiently constructs the book for a set depth, achieving low latency and optimal performance by implementing Red-Black Trees and Deques as data structures
+• Designed a custom backend that compresses, chunks and versions tick data to meet the needs of our high-frequency trading platform
+• Built high-frequency trading strategies that take advantage of latent arbitrage opportunities between and within cryptocurrency exchanges
+• Built an automated trade execution system with mature portfolio and risk management as well as complex entry/exit technique
+
 
 
 description2: We create end-of-day and intraday algorithms and back test on historical data to find potential biases and flaws in the strategies. After we conduct extensive sensitivity analyses and get a clear understanding of the risk and profitability of our algorithms, we implement them in an automated execution system through our brokerage account.
